@@ -1,0 +1,15 @@
+{
+  "name": "bamazon_app",
+  "version": "1.0.0",
+  "description": "like amazon, but worse",
+  "main": "bamazon.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Molly",
+  "license": "UNLICENSED",
+  "dependencies": {
+    "inquirer": "^5.2.0",
+    "mysql": "^2.15.0"
+  }
+}
